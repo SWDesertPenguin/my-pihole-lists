@@ -1,21 +1,17 @@
 id,type,domain,enabled,date_added,date_modified,comment
-19,3,^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.],1,1585426668,1608564394,
-20,3,^(.+[-_.])??ad[sxv]?[0-9]*[-_.],1,1585426668,1608564396,
-21,3,^(.+[-_.])??telemetry[-.],1,1585426668,1608564398,
-22,3,^(.+[-_.])??xn--,1,1585426668,1608564400,
-23,3,^adim(age|g)s?[0-9]*[-_.],1,1585426668,1608564401,
-24,3,^adtrack(er|ing)?[0-9]*[-.],1,1585426668,1608564403,
-25,3,^advert(s|is(ing|ements?))?[0-9]*[-_.],1,1585426668,1608564404,
-26,3,^aff(iliat(es?|ion))?[-.],1,1585426668,1608564405,
-27,3,^analytics?[-.],1,1585426668,1608564406,
-28,3,^banners?[-.],1,1585426668,1608564408,
-29,3,^beacons?[0-9]*[-.],1,1585426668,1608564427,
-30,3,^count(ers?)?[0-9]*[-.],1,1585426668,1608564421,
-31,3,^pixels?[-.],1,1585426668,1608564418,
-32,3,^stat(s|istics)?[0-9]*[-.],1,1585426668,1608564415,
-33,3,^track(ers?|ing)?[0-9]*[-.],1,1585426668,1608564413,
-34,3,^traff(ic)?[-.],1,1585426668,1608564412,
-35,3,^(ads|logs|cloudservices).roku.com$,1,1585426668,1608564411,
-36,0,track.shipstation.com,1,1586220825,1589684086,"USPS tracking"
-37,0,ib.huluim.com,1,1593787890,1593787985,"Hulu scrubbing thumbnails"
-43,2,^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$,1,1608398374,1608398374,"Fixes Google Meet buttons"
+1,1,(\.|^)ngfts\.lge\.com$,1,1591018056,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+2,1,(\.|^)us\.ad\.lgsmartad\.com$,1,1591018070,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+3,1,(\.|^)lgad\.cjpowercast\.com$,1,1591018077,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+4,1,(\.|^)edgesuite\.net$,1,1591018084,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+5,1,(\.|^)us\.info\.lgsmartad\.com$,1,1591018093,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+6,1,(\.|^)www\.samsungotn\.net$,1,1591018108,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+7,1,(\.|^)www\.samsungrm\.net$,1,1591018117,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+8,1,(\.|^)www\.samsung\.net/ads$,1,1591018125,1602353995,https://www.reddit.com/r/YouShouldKnow/comments/gn7fw5/ysk_if_you_own_a_samsung_smart_tv_that_has_ads/
+9,1,(\.|^)tvinteractive\.tv$,1,1591018317,1602353995,https://www.reddit.com/r/pihole/comments/aucpek/very_new_to_pihole_how_can_i_block_my_vizio_smart/
+10,0,kinesis.us-west-2.amazonaws.com,1,1602631702,1602631709,"LoftTV - Disney+"
+11,1,api.geo.kontagent.net,1,1603816775,1603816775,"Added from Query Log"
+12,1,firetvcaptiveportal.com,1,1603817390,1603817390,"Not needed at home"
+14,1,api-global.netflix.com,1,1603817772,1603817772,
+16,3,(\.|^)alb\.reddit\.com$,1,1605710011,1605710011,
+17,1,www.redditstatic.com,0,1605710374,1605742648,
+18,1,testpitest.com,1,1609652828,1609652828,
