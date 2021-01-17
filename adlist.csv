@@ -1,39 +1,39 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1590985118,1602353993,"Migrated from /etc/pihole/adlists.list",1610254142
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1590985118,1602353993,"Migrated from /etc/pihole/adlists.list",1610858942
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1590985118,1602353994,"Migrated from /etc/pihole/adlists.list",1606858539
 3,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1590985118,1602353994,"Migrated from /etc/pihole/adlists.list",1609052437
 4,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1590985118,1602353994,"Migrated from /etc/pihole/adlists.list",1609052438
-5,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1591112299,1602353994,"https://firebog.net/ - Malicious Lists",1610254144
-6,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1591112333,1602353994,"https://firebog.net/ - Malicious Lists",1610254145
+5,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1591112299,1602353994,"https://firebog.net/ - Malicious Lists",1610858944
+6,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1591112333,1602353994,"https://firebog.net/ - Malicious Lists",1610858946
 7,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1591112366,1602353994,"https://firebog.net/ - Malicious Lists",1609052440
 9,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1591112450,1602353994,"https://firebog.net/ - Malicious Lists",1609052440
 10,https://v.firebog.net/hosts/Prigent-Malware.txt,1,1591112462,1602353994,"https://firebog.net/ - Malicious Lists",1609052442
 11,https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt,1,1591112484,1602353995,"https://firebog.net/ - Malicious Lists",1609052443
 12,https://www.malwaredomainlist.com/hostslist/hosts.txt,1,1591112534,1602353995,"https://firebog.net/ - Malicious Lists",1609052444
 13,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1591112546,1602353995,"https://firebog.net/ - Malicious Lists",1609052444
-14,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1591112553,1602353995,"https://firebog.net/ - Malicious Lists",1610254150
-15,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1591112563,1602353995,"https://firebog.net/ - Malicious Lists",1610254151
+14,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1591112553,1602353995,"https://firebog.net/ - Malicious Lists",1610858950
+15,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1591112563,1602353995,"https://firebog.net/ - Malicious Lists",1610858951
 16,https://v.firebog.net/hosts/Shalla-mal.txt,1,1591112570,1602353995,"https://firebog.net/ - Malicious Lists",1609052446
-17,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1591112576,1602353995,"https://firebog.net/ - Malicious Lists",1610254152
-18,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1591112597,1602353995,"https://firebog.net/ - Malicious Lists",1610254153
-19,https://urlhaus.abuse.ch/downloads/hostfile/,1,1591112604,1602353995,"https://firebog.net/ - Malicious Lists",1610254154
-20,https://v.firebog.net/hosts/Easyprivacy.txt,1,1591199904,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610254154
+17,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1591112576,1602353995,"https://firebog.net/ - Malicious Lists",1610858951
+18,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1591112597,1602353995,"https://firebog.net/ - Malicious Lists",1610858952
+19,https://urlhaus.abuse.ch/downloads/hostfile/,1,1591112604,1602353995,"https://firebog.net/ - Malicious Lists",1610858952
+20,https://v.firebog.net/hosts/Easyprivacy.txt,1,1591199904,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610858952
 21,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1591199908,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1609052448
-22,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1591199911,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610254155
-23,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1591199915,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610254155
-24,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1591199919,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610254155
+22,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1591199911,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610858953
+23,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1591199915,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610858953
+24,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1591199919,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1610858954
 25,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1591199925,1602353995,"https://firebog.net/ Tracking &amp;amp;amp; Telemetry Lists",1609052451
-26,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1591200036,1602353995,"https://firebog.net/ Suspicious Lists",1610254157
-27,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1591200043,1602353995,"https://firebog.net/ Suspicious Lists",1610254158
+26,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1591200036,1602353995,"https://firebog.net/ Suspicious Lists",1610858955
+27,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1591200043,1602353995,"https://firebog.net/ Suspicious Lists",1610858956
 28,https://v.firebog.net/hosts/static/w3kbl.txt,1,1591200050,1602353995,"https://firebog.net/ Suspicious Lists",1609052453
 29,https://www.dshield.org/feeds/suspiciousdomains_High.txt,1,1591200074,1602353995,"https://firebog.net/ Suspicious Lists",1609052453
-30,https://adaway.org/hosts.txt,1,1591886648,1602353995,"https://firebog.net/ Advertising Lists",1609649356
-31,https://v.firebog.net/hosts/AdguardDNS.txt,1,1591886655,1602353995,"https://firebog.net/ Advertising Lists",1610254159
+30,https://adaway.org/hosts.txt,1,1591886648,1602353995,"https://firebog.net/ Advertising Lists",1610858957
+31,https://v.firebog.net/hosts/AdguardDNS.txt,1,1591886655,1602353995,"https://firebog.net/ Advertising Lists",1610858958
 32,https://v.firebog.net/hosts/Admiral.txt,1,1591886662,1602353995,"https://firebog.net/ Advertising Lists",1609052454
-33,https://v.firebog.net/hosts/Easylist.txt,1,1591886698,1602353995,"https://firebog.net/ Advertising Lists",1610254160
-34,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;amp;amp;showintro=0&amp;amp;amp;mimetype=plaintext,1,1591886705,1602353995,"https://firebog.net/ Advertising Lists",1610254161
-35,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1591886712,1602353995,"https://firebog.net/ Advertising Lists",1610254161
-36,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1591886718,1602353995,"https://firebog.net/ Advertising Lists",1610254162
-38,https://dbl.oisd.nl,1,1591888910,1602353995,https://oisd.nl/,1610254170
-40,https://hosts.oisd.nl,1,1591888946,1602353995,https://oisd.nl/,1610254179
-41,https://dnsmasq.oisd.nl,1,1591888957,1602353995,https://oisd.nl/,1610254181
+33,https://v.firebog.net/hosts/Easylist.txt,1,1591886698,1602353995,"https://firebog.net/ Advertising Lists",1610858958
+34,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;amp;amp;showintro=0&amp;amp;amp;mimetype=plaintext,1,1591886705,1602353995,"https://firebog.net/ Advertising Lists",1610858959
+35,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1591886712,1602353995,"https://firebog.net/ Advertising Lists",1610858960
+36,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1591886718,1602353995,"https://firebog.net/ Advertising Lists",1610858960
+38,https://dbl.oisd.nl,1,1591888910,1602353995,https://oisd.nl/,1610858969
+40,https://hosts.oisd.nl,1,1591888946,1602353995,https://oisd.nl/,1610858984
+41,https://dnsmasq.oisd.nl,1,1591888957,1602353995,https://oisd.nl/,1610858986
