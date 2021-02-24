@@ -14,3 +14,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 14,1,api-global.netflix.com,1,1603817772,1603817772,
 16,3,(\.|^)alb\.reddit\.com$,1,1605710011,1605710011,
 17,1,www.redditstatic.com,0,1605710374,1605742648,
+19,0,marketing.accessdata.com,1,1614197204,1614197204,"Added from Query Log"
