@@ -11,7 +11,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 10,0,kinesis.us-west-2.amazonaws.com,1,1602631702,1602631709,"LoftTV - Disney+"
 11,1,api.geo.kontagent.net,1,1603816775,1603816775,"Added from Query Log"
 12,1,firetvcaptiveportal.com,1,1603817390,1603817390,"Not needed at home"
-14,1,api-global.netflix.com,1,1603817772,1603817772,
 16,3,(\.|^)alb\.reddit\.com$,1,1605710011,1605710011,
 17,1,www.redditstatic.com,0,1605710374,1605742648,
 19,0,marketing.accessdata.com,1,1614197204,1614197204,"Added from Query Log"
+20,0,ichnaea.netflix.com,0,1615061363,1615061512,"Roku Netflix"
+21,0,api-global.netflix.com,1,1615061389,1615061508,"Roku Netflix"
